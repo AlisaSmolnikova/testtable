@@ -27,22 +27,29 @@
     </tr>
     <tr>
         <td>2</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Bill Gates</td>
+        <td>Founder</td>
+        <td>1000</td>
     </tr>
     <tr>
         <td>3</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Bill Gates</td>
+        <td>Founder</td>
+        <td>1000</td>
     </tr>
     <tr>
         <td>4</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Bill Gates</td>
+        <td>Founder</td>
+        <td>1000</td>
     </tr>
-    <tfoot></tfoot>
+    <tfoot>
+        <tr> 
+            <td></td> 
+            <td></td>
+            <td></td> 
+            <td>4000</td>
+        </tr>
+    </tfoot>
 
     </html>
